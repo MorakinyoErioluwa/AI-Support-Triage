@@ -33,7 +33,7 @@ n8n, an LLM API, Gmail, Notion.
 ## Screenshots
 ![Notion tasks](notion.png)
 ![Successful executions](executions.png)
-![Reply in thread](reply.png)
+
 
 ## Setup
 1. Import `support-triage.json` into n8n.
